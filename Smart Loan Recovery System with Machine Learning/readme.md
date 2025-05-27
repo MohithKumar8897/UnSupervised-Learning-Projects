@@ -63,14 +63,12 @@ The dataset used: [`loan-recovery.csv`](https://github.com/MohithKumar8897/UnSup
 
 🛠️ Techniques Used
 
-Unsupervised Learning (KMeans Clustering)
-
-Data Visualization using Matplotlib & Seaborn
-
-Correlation Analysis
-
-Data Preprocessing and Exploratory Data Analysis (EDA)
+-->Unsupervised Learning (KMeans Clustering)
+-->Data Visualization using Matplotlib & Seaborn
+-->Correlation Analysis
+-->Data Preprocessing and Exploratory Data Analysis (EDA)
 
 📈 Conclusion
+
 The Smart Loan Recovery System demonstrates the effectiveness of unsupervised machine learning techniques in analyzing borrower data to enhance loan recovery strategies. By clustering borrowers based on income and loan amount, and examining the impact of missed payments and payment history, the system provides valuable insights into borrower behavior. These insights can aid financial institutions in identifying high-risk borrowers early and implementing targeted recovery strategies, ultimately improving recovery rates and reducing financial losses.
 
