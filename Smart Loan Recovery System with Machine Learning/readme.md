@@ -64,8 +64,11 @@ The dataset used: [`loan-recovery.csv`](https://github.com/MohithKumar8897/UnSup
 🛠️ Techniques Used
 
 -->Unsupervised Learning (KMeans Clustering)
+
 -->Data Visualization using Matplotlib & Seaborn
+
 -->Correlation Analysis
+
 -->Data Preprocessing and Exploratory Data Analysis (EDA)
 
 📈 Conclusion
